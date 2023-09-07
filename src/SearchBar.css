@@ -1,0 +1,15 @@
+.searchCard {
+    width: 50%;
+    margin-left: 25%;
+    padding-bottom: 1%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.initialLayout {
+    width: 80%;
+    padding: 1%;
+}
+
+

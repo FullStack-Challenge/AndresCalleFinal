@@ -1,0 +1,27 @@
+.navBar {
+  background-color: aqua;
+  height: 70px;
+}
+
+.ulStyle {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.linkStyle {
+  padding-top: 12px;
+  padding-right: 30px;
+}
+
+.linkStyleIcon {
+  padding-top: 10px;
+  padding-right: 30px;
+}
+
+.link {
+  text-decoration: unset;
+}
+
+.mainImageBar {
+  width: 50px;
+}
